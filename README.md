@@ -39,6 +39,7 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `lower`/`upper`
 - `allow`/`block`
 - `inner`/`outer`
+- `based`/`touch`/`crimp`
 - `accept`/`reject`
 - `permit`/`refuse`
 - `permit`/`forbid`
