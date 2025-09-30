@@ -59,9 +59,9 @@ A helpful list of antonyms with the same word length for your everyday variable 
 - `increment`/`decrement`
 - `permanent`/`temporary`
 
-⁰ C++ keyword, cannot be used as an identifier  
-¹ Python keyword, cannot be used as an identifier  
-² Python builtin, should not be used as an unqualified identifier, but ok as member  
+⁰ C++ keyword, cannot be used as an identifier
+¹ Python keyword, cannot be used as an identifier
+² Python builtin, should not be used as an unqualified identifier, but ok as member
 
 
 ## Equisized Non-Antonyms
@@ -73,9 +73,10 @@ A helpful list of antonyms with the same word length for your everyday variable 
 ## Oddballs
 - `OK`/`NG`⁰
 - `this->`/`other.`
-- `localhost`/`127.0.0.1` 😂
+- `localhost`/`127.0.0.1` ¹
 
 ⁰ the "NG" initials are commonly used in Japan for "Not Good"
+¹ these are neither synonyms nor antonyms; vulnerability...
 
 ### Inspiration
 Several [[Twitter](https://twitter.com/fulhack/status/863496853190582272)] [[threads](https://twitter.com/kikko_fr/status/505301200980672512)] [[1](https://twitter.com/AdiShavit/status/1270615387567202305?s=20)].
