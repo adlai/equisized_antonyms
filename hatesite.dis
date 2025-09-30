@@ -1,0 +1,94 @@
+> Here are some more for your consideration. Some of those are more suitable for function names or for enum names than purely for variable names.
+> 
+> add/sub/mul/div/mod/neg/pow/log (arithmetics)
+> 
+> dry/wet (e.g. https://www.gresearch.co.uk/article/in-praise-of-dry-run/#finishing-the-example)
+> 
+> min/max/sum/avg (statistics, "avg" = "average")
+> 
+> val/ref (value semantics vs. reference semantics)
+> 
+> copy/move
+> 
+> easy/hard (not sure about use cases for that one)
+> 
+> fast/slow
+> 
+> full/part ("part" = partial")
+> 
+> idle/busy
+> 
+> incr/decr (increment/decrement, increase/decrease)
+> 
+> intf/impl (interface/implementation)
+> 
+> live/dead (e.g. systems being monitored)
+> 
+> load/save
+> 
+> pass/fail (also: passed/failed)
+> 
+> real/fake real/mock
+> 
+> show/hide
+> 
+> soft/hard/weak (e.g. line breaks, links, references)
+> 
+> some/none (e.g. option types)
+> 
+> take/drop (stream operations)
+> 
+> above/below
+> 
+> early/tardy
+> 
+> fresh/stale (caching)
+> 
+> light/heavy (e.g. in Java heavy-weight vs. light-weight AWT/Swing UI components)
+> 
+> major/minor(/patch)
+> 
+> proto/final (e.g. when creating an immutable "final" object from a modifiable "prototype" object)
+> 
+> before/behind
+> 
+> import/export
+> 
+> insert/update/upsert/delete (as in SQL) There's also "modify". One can really combine all of these: create/insert/modify/update/upsert/delete/remove
+> 
+> intact/broken
+> 
+> single/double/triple
+> 
+> current/expired (similar to fresh/stale above)
+> 
+> success/failure
+> 
+> special/regular
+> 
+> include/exclude
+> 
+> verbose/concise
+> 
+> increase/decrease
+> 
+> starting/stopping
+> 
+> original/modified
+> 
+> constant/variable
+> 
+> identical/different
+> 
+> compound/singular (e.g. data items)
+> 
+> concrete/abstract
+> 
+> expected/computed (e.g. expectedHash/computedHash; similar to expected vs. actual)
+> 
+> frequent/sporadic
+> 
+> internal/external
+> 
+> permanent/transient (alternative to "temporary")
+
